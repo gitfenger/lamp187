@@ -1,4 +1,5 @@
 <?php
+echo 'hello world!';
 session_start();
 /**
  * Laravel - A PHP Framework For Web Artisans
